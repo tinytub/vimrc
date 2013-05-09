@@ -4,6 +4,7 @@
 if you want add module called "tornado" to complete-dict, do the following
 
 	python pydiction.py tornado tornado.web ...
+2.add pyflakes
 
 
 # The Ultimate vimrc
